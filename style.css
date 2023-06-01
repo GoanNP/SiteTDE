@@ -1,26 +1,26 @@
 
-.project {
-    margin-bottom: 30px;
+  Titulo {
+    text-align: center;
   }
-  
-  .project img {
+
+  project img {
     width: 100%;
     max-width: 400px;
     height: auto;
   }
   
-  .project h3 {
+  project h3 {
     font-size: 20px;
     margin-top: 10px;
   }
   
-  .project p {
+  project p {
     font-size: 16px;
     margin-top: 5px;
     color: blue;
   }
   
-  .project a {
+  project a {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
