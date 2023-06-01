@@ -6,23 +6,24 @@
     text-align: center;
   }
 
-  .project img {
+  .content img {
     width: 100%;
     max-width: 400px;
     height: auto;
   }
   
-  .project h3 {
+  .content h3 {
     font-size: 16px;
     margin-top: 10px;
   }
   
-  .project p {
+  .content p {
     font-size: 16px;
     margin-top: 5px;
+    color: blue;
   }
   
-  .project a {
+  .content a {
     display: inline-block;
     margin-top: 10px;
     padding: 10px 20px;
