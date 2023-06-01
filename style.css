@@ -1,18 +1,29 @@
-bodt{
-    margin: 0;
-    padding: 0;
-    text-align: center;
-}
 
-h1 {
-    padding-top: 4em;
-}
-
-p {
-    margin: 2em;
-}
-
-img {
-    width: 40em;
-    max-width: 80%;
-}
+.project {
+    margin-bottom: 30px;
+  }
+  
+  .project img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+  }
+  
+  .project h3 {
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  
+  .project p {
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  .project a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+  }
