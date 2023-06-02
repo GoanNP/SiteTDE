@@ -1,6 +1,9 @@
 
    .centro_texto {
         width: 300px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
         font-size: 16px;
     }
 
