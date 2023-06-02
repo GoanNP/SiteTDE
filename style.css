@@ -1,8 +1,7 @@
 
    .centro_texto {
-        width: 600px;
-        overflow: hidden;
-        text-overflow: ellipsis;
+        max-width: 600px;
+        font-size: 16px;
     }
 
     .centro_img {
