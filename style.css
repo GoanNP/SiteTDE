@@ -1,6 +1,6 @@
 
    .centro_texto {
-        text-align: center;
+        
         font-size: 16px;
     }
 
@@ -29,5 +29,12 @@
         background-color: #333;
         color: #fff;
         text-decoration: none;
+    }
+
+    .centro {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
         text-align: center;
     }
