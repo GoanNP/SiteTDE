@@ -1,6 +1,7 @@
 
    .centro_texto {
         max-width: 600px;
+        word-wrap: break-word;
         font-size: 16px;
     }
 
