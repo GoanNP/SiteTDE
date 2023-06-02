@@ -1,9 +1,9 @@
 
    .texto {
+        color: #fff;
         max-width: 600px;
         word-wrap: break-word;
         font-size: 18px;
-        color: #fff;
     }
 
     .img {
@@ -14,15 +14,15 @@
     }
 
     .titulo {
+        color: #fff;
         text-align: center;
         font-size: 22px;
-        color: #fff;
     }
 
     .titulo_principal {
+        color: #fff;
         text-align: center;
         font-size: 26px;
-        color: #fff;
     }
 
     .botao {
