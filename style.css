@@ -1,6 +1,5 @@
 
    .texto {
-        color: #fff !important;
         max-width: 600px;
         word-wrap: break-word;
         font-size: 18px;
@@ -14,13 +13,11 @@
     }
 
     .titulo {
-        color: #fff !important;
         text-align: center;
         font-size: 22px;
     }
 
     .titulo_principal {
-        color: #fff !important;
         text-align: center;
         font-size: 26px;
     }
@@ -30,11 +27,12 @@
         margin-top: 10px;
         padding: 10px 20px;
         background-color: #333;
-        color: #fff;
+        color: hsl(0, 0%, 100%);
         text-decoration: none;
     }
 
     .centro {
+        color: #fff;
         display: flex;
         flex-direction: column;
         justify-content: center;
