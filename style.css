@@ -1,6 +1,6 @@
 
    .texto {
-        color: #fff;
+        color: #fff !important;
         max-width: 600px;
         word-wrap: break-word;
         font-size: 18px;
@@ -14,13 +14,13 @@
     }
 
     .titulo {
-        color: #fff;
+        color: #fff !important;
         text-align: center;
         font-size: 22px;
     }
 
     .titulo_principal {
-        color: #fff;
+        color: #fff !important;
         text-align: center;
         font-size: 26px;
     }
