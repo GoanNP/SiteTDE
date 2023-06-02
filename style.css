@@ -2,7 +2,7 @@
    .texto {
         max-width: 600px;
         word-wrap: break-word;
-        font-size: 18px;
+        font-size: 20px;
     }
 
     .img {
@@ -14,12 +14,12 @@
 
     .titulo {
         text-align: center;
-        font-size: 22px;
+        font-size: 24px;
     }
 
     .titulo_principal {
         text-align: center;
-        font-size: 26px;
+        font-size: 28px;
     }
 
     .botao {
